@@ -4,11 +4,11 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 15 May 2022 07:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2022 07:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
-            <title><![CDATA[XSS]]></title>
+            <title><![CDATA[XSS Detail]]></title>
             <guid>109020a7229245f0933b254918d79091</guid>
             <pubDate>Sun, 15 May 2022 06:37:23 GMT</pubDate>
             <content:encoded><![CDATA[<nav class="table-of-contents"><ul><li><a href="#general">General</a><ul><li><a href="#type">Type</a><ul><li><a href="#reflected">Reflected</a></li><li><a href="#stored">Stored</a></li><li><a href="#dom">DOM</a></li></ul></li><li><a href="#bypass-waf">Bypass WAF</a></li><li><a href="#cheat-sheet">Cheat Sheet</a></li></ul></li><li><a href="#xss-in-other-html-file">XSS in other HTML file</a><ul><li><a href="#iframe">iframe</a></li><li><a href="#custom-tag">Custom Tag</a></li><li><a href="#example">Example</a></li></ul></li><li><a href="#implementation">Implementation</a><ul><li><a href="#general-1">General</a></li><li><a href="#get-html-response">Get HTML response</a></li><li><a href="#steal-cookies">Steal Cookies</a></li><li><a href="#xss-to-rce">XSS to RCE</a></li><li><a href="#create-input-form">Create Input Form</a></li><li><a href="#automatic-post">Automatic POST</a></li><li><a href="#dangling-markup-injection">Dangling Markup Injection</a></li><li><a href="#csp">CSP</a></li></ul></li></ul></nav><h1 id="general">General</h1>
